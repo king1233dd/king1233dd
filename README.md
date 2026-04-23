@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdul Salam
 
-<!--
-**king1233dd/king1233dd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm passionate about learning, building, and sharing knowledge through code.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 Username: **abdulsalam**
+- 🌱 Currently learning: Web development, Python, and open-source collaboration.
+- 🤝 Looking to collaborate on: Interesting and impactful tech projects.
+- 🗣️ Languages: English, Urdu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Skills
+- HTML, CSS, JavaScript  
+- Python, Django  
+- Git, GitHub, Linux
+
+## 📫 Contact Me
+- GitHub: [github.com/abdulsalam](https://github.com/abdulsalam)
+- Email: your.email@example.com *(replace with your real one)*
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
